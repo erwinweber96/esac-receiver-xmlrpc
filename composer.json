@@ -1,0 +1,5 @@
+{
+    "require": {
+        "maniaplanet/dedicated-server-api": "^5.0"
+    }
+}
